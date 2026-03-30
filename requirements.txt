@@ -1,0 +1,14 @@
+# Data manipulation and features
+pandas==2.3.3
+numpy==2.4.3
+scikit-learn==1.8.0
+
+# Training and visualization
+xgboost==3.2.0
+mlflow==3.10.1
+optuna==4.8.0
+matplotlib==3.10.8
+
+# Dashboard
+streamlit==1.55.0
+plotly==6.6.0

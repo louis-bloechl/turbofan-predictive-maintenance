@@ -1,0 +1,11 @@
+# Core app and visuals
+streamlit==1.55.0
+plotly==6.6.0
+
+# Inference and data handling
+xgboost==3.2.0
+pandas==2.3.3
+numpy==2.4.3
+
+# Required by src.models.predict for metrics
+scikit-learn==1.8.0

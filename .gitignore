@@ -1,0 +1,14 @@
+# Environments and cache
+.venv/
+venv/
+test_env/
+__pycache__/
+*.pyc
+.DS_Store
+
+# MLflow tracking
+mlruns/
+mlflow.db
+
+# Generated training artifacts
+feature_importance.png
